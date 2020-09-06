@@ -18,8 +18,7 @@ real Level 4 testing.
 - Software fault, on the other hand, is a hidden programming error.
 - A software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.
 
-# 3. What do we mean by “level 3 thinking is that the purpose of testing is to reduce
-risk?” What risk? Can we reduce the risk to zero?
+# 3. What do we mean by “level 3 thinking is that the purpose of testing is to reduce risk?” What risk? Can we reduce the risk to zero?
 
 - Testing can show the presence of failures but not their absence.
 - Using the software, we are always at risk. The risk could be insignificant or could be significant.
